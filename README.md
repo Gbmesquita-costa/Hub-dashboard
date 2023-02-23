@@ -32,3 +32,7 @@ Esta aplicação front-end consiste em criar um dashboard, sistema de paginaçã
 # Considerações finais
 
 Esta é uma aplicação front-end funcional, que consome uma API do backend próprio e oferece funcionalidades úteis para empresas que desejam gerenciar seus locais e informações importantes. A utilização de tecnologias como React e Styled-Components permite uma boa experiência para o usuário e torna a aplicação responsiva e fácil de utilizar.
+
+# Link
+
+Link da aplicação em deploy, caso queiram dar uma olhada 😊!! Link: https://hub-dashboard.vercel.app
